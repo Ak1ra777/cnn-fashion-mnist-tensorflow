@@ -10,6 +10,7 @@ cnn-fashion-mnist-tensorflow/
 ├── README.md # Project overview
 
 
+
 ## 🧪 Model Overview
 
 - **Architecture:** 3 Convolutional blocks + Dense layers
@@ -27,5 +28,11 @@ cnn-fashion-mnist-tensorflow/
 
 ## 🚀 Run it Locally
 
+```bash
+git clone https://github.com/Ak1ra777/cnn-fashion-mnist-tensorflow.git
+cd cnn-fashion-mnist-tensorflow
 pip install -r requirements.txt
 jupyter notebook cnn-fashion-mnist.ipynb
+
+
+
