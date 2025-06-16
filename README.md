@@ -33,6 +33,3 @@ git clone https://github.com/Ak1ra777/cnn-fashion-mnist-tensorflow.git
 cd cnn-fashion-mnist-tensorflow
 pip install -r requirements.txt
 jupyter notebook cnn-fashion-mnist.ipynb
-
-
-
